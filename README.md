@@ -51,5 +51,3 @@ To compile and run the project, you'll need the following software:
 ## Contributing
 Contributions to this project are welcome! If you find any bugs, have suggestions for improvements, or would like to add new features, please open an issue or submit a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
